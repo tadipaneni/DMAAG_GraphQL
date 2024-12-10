@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Anuradha@123",
+    "database": "west_dmaag",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "DMAAG"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Anuradha@123",
+    "database": "west_dmaag",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "DMAAG"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Anuradha@123",
+    "database": "west_dmaag",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "DMAAG"
+  }
+}
