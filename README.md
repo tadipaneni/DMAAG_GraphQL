@@ -1,7 +1,7 @@
 # DMAAG_GraphQL
 This is my backend server to host the database to import to the frontend
 
-# DMAAG (Database Management and Administration Assistant Guide)
+# DMAAG 
 
 ## Project Repositories
 - Frontend: [DMAAG_Frontend](https://github.com/tadipaneni/DMAAG_Frontend/tree/master)
