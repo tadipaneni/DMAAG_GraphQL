@@ -6,7 +6,7 @@ const AppDataSource = new DataSource({
   host: 'localhost',
   port: 5432,
   username: 'postgres',
-  password: 'Anuradha@123',
+  password: '*************', //update this
   database: 'west_dmaag',
   schema: 'DMAAG',
   synchronize: false,
